@@ -42,4 +42,4 @@ dist
 /build
 
 # Vscode
-.vscode
+.vscode/
