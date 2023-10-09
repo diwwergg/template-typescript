@@ -1,0 +1,45 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+build/Release
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+.npm
+.eslintcache
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+
+# TypeScript out
+/build
+
+# Vscode
+.vscode
